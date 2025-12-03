@@ -13,7 +13,7 @@ Zalink, modern tasarım ve 3D animasyonlar ile sosyal medya ve web profilleriniz
 ## 🔗 Sosyal Linkler
 
 Sayfada şu platformlara hızlı erişim sağlanmaktadır:
-- 📝 Blog - zulkifaltin.com
+- 📝 Blog
 - 📸 Instagram
 - 🎥 YouTube
 - 💼 LinkedIn
@@ -58,7 +58,7 @@ python3 -m http.server 8000
 
 3. Tarayıcıda `http://localhost:8000` adresine gidin
 
-## 📝 Kustomizasyon
+## 📝 Düzenleme
 
 - Sosyal medya linklerini `index.html` dosyasında güncelleyebilirsiniz
 - Renkleri `style.css` dosyasında değiştirebilirsiniz
