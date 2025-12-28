@@ -72,6 +72,9 @@ body{
 .social__links ul .blog:hover{
     background: #4285F4;
 }
+.social__links ul .hesap:hover{
+    background: #4ade80;
+}
 .social__links ul .youtube:hover{
     background:#FF0000;
 }

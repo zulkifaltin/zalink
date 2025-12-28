@@ -1,6 +1,6 @@
-# 🔗 Zalink - Kişisel Link Sayfası
+# 🔗 ZALink - Kişisel Link Sayfası
 
-Zalink, modern tasarım ve 3D animasyonlar ile sosyal medya ve web profillerinize erişim sağlayan kişisel link sayfasıdır.
+ZALink, modern tasarım ve 3D animasyonlar ile sosyal medya ve web profillerinize erişim sağlayan kişisel link sayfasıdır.
 
 ## ✨ Özellikler
 
@@ -19,6 +19,7 @@ Sayfada şu platformlara hızlı erişim sağlanmaktadır:
 - 💼 LinkedIn
 - 𝕏 Twitter
 - 💻 GitHub
+- Sınırsız eklenebilen açık kaynak kod.
 
 ## 🛠️ Teknolojiler
 
@@ -35,7 +36,7 @@ Sayfada şu platformlara hızlı erişim sağlanmaktadır:
 ## 📂 Dosya Yapısı
 
 ```
-zalink/
+ZALink/
 ├── index.html      # Ana HTML dosyası
 ├── style.css       # Stil dosyası
 ├── module.js       # JavaScript (3D efektler)
@@ -47,8 +48,8 @@ zalink/
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/zulkifaltin/zalink.git
-cd zalink
+git clone https://github.com/zulkifaltin/ZALink.git
+cd ZALink
 ```
 
 2. `index.html` dosyasını bir tarayıcıda açın veya yerel bir web sunucusu kullanın:
@@ -60,13 +61,13 @@ python3 -m http.server 8000
 
 ## 📝 Düzenleme
 
-- Sosyal medya linklerini `index.html` dosyasında güncelleyebilirsiniz
+- Sosyal medya linklerini `index.html` dosyasında güncelleyebilir ve ekleyebilirsiniz
 - Renkleri `style.css` dosyasında değiştirebilirsiniz
 - 3D efekt parametrelerini `module.js` dosyasında ayarlayabilirsiniz
 
 ## 👨‍💻 Geliştirici
 
-- **Zulkifaltin** - [GitHub](https://github.com/zulkifaltin)
+- **zulkifaltin** - [GitHub](https://github.com/zulkifaltin)
 
 ## 📄 Lisans
 
