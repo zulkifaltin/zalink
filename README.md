@@ -31,7 +31,7 @@ Sayfada şu platformlara hızlı erişim sağlanmaktadır:
 
 ## 📱 Demo
 
-[🌐 Demo Sayfasını Ziyaret Et](https://zaee.tr)
+[🌐 Demo Sayfasını Ziyaret Et](https://zulkifaltin.github.io/zalink/)
 
 ## 📂 Dosya Yapısı
 
